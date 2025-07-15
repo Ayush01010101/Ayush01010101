@@ -1,9 +1,6 @@
 <h1 align="center">💫 Hey, I am Ayush Awachar</h1>
 <h3 align="center">👨‍💻 Frontend React Developer</h3>
 
-<p align="center">
-  <img style="border-radius:1.5rem" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
-</p>
 
 ---
 
